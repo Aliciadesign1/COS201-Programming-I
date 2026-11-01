@@ -1,8 +1,8 @@
 # COS 201 - Computer Programming I
 
 ## Student Information
-Name: [Olanrewaju Oladunni Alicia]
-Matriculation Number: [25/17441]
+Name: Olanrewaju Oladunni Alicia
+Matriculation Number: 25/17441
 Programme: Computer Science
 
 ## Week 1: Introduction to Computer Programming
