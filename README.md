@@ -22,3 +22,17 @@ Created a Java program called `FirstProgram.java` to display:
 - Using the main() method.
 - Displaying output with System.out.println().
 - Creating and saving Java source files.
+
+## Week 2: Development Environment and Java
+
+### Practical Exercise
+Created a Java program called `HelloWorld.java` to display course information and a personal learning goal.
+
+### File Location
+`week02/HelloWorld.java`
+
+### Skills Practised
+- Understanding the Java development environment.
+- Writing and executing a basic Java program.
+- Using the main() method.
+- Displaying output using System.out.println().
